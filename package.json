@@ -13,8 +13,10 @@
     "@strapi/plugin-i18n": "4.1.0",
     "@strapi/plugin-users-permissions": "4.1.0",
     "@strapi/strapi": "4.1.0",
+    "connection-string": "^4.3.5",
     "sqlite3": "5.0.2",
-    "strapi-provider-upload-cloudinary": "^3.6.8"
+    "strapi-provider-upload-cloudinary": "^3.6.8",
+    "yarn": "^1.22.17"
   },
   "author": {
     "name": "A Strapi developer"
