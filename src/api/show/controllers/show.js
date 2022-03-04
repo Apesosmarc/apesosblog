@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- *  intro controller
+ *  show controller
  */
 
 const { createCoreController } = require('@strapi/strapi').factories;
 
-module.exports = createCoreController('api::intro.intro');
+module.exports = createCoreController('api::show.show');

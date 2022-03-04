@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * intro service.
+ * show service.
  */
 
 const { createCoreService } = require('@strapi/strapi').factories;
 
-module.exports = createCoreService('api::intro.intro');
+module.exports = createCoreService('api::show.show');
