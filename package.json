@@ -14,8 +14,8 @@
     "@strapi/plugin-users-permissions": "4.1.0",
     "@strapi/strapi": "4.1.0",
     "connection-string": "^4.3.5",
+    "pg": "^8.7.3",
     "sqlite3": "5.0.2",
-    "strapi-provider-upload-cloudinary": "^3.6.8",
     "yarn": "^1.22.17"
   },
   "author": {
