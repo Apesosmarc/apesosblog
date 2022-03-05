@@ -22,7 +22,7 @@
       "type": "richtext"
     },
     "showImage": {
-      "type": "string"
+      "type": "text"
     }
   }
 }
