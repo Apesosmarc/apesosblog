@@ -4,7 +4,8 @@
   "info": {
     "singularName": "show",
     "pluralName": "shows",
-    "displayName": "Show"
+    "displayName": "Show",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -20,15 +21,8 @@
     "showDetails": {
       "type": "richtext"
     },
-    "showPic": {
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ],
-      "type": "media",
-      "multiple": true
+    "showImage": {
+      "type": "string"
     }
   }
 }
